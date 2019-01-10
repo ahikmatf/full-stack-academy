@@ -1,8 +1,13 @@
-## Silabus FSDAP
+![Makers Institute](https://makersinstitute.id/static/images/logo-b.png)
+
+# Full Stack Developer Academy Program
+
+
+## Silabus
 
 * [Minggu 0 - Pengantar](#week0)
-  * [Hari 1 - Orientasi, Talk: Teknologi Secara Umum](#day01)
-  * [Hari 2 - Mengapa harus belajar pemgograman? & Bootcamp Roadmap & Pengenalan tentang Komputasi](#day02)
+  * [Hari 1 - Orientasi, Talk: Teknologi Secara Umum](rpp/week-00.md#day01)
+  * [Hari 2 - Mengapa harus belajar pemrograman? & Bootcamp Roadmap & Pengenalan tentang Komputasi](#day02)
   * [Hari 3 - Berpikir Komputasional dan Bebras](#day03)
   * [Hari 4 - Tantangan Bebras](#day04)
   * [Hari 5 - Tantangan Bebras dan Mencoba Blockly](#day05)
