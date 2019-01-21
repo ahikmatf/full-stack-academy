@@ -8,7 +8,8 @@
 #### <a name="day01"></a>Hari 1 - Orientasi, Talk: Teknologi Secara Umum
 * Tujuan:
     - Saling mengenal satu sama lain
-    - Memberikan pondasi pengetahuan terkait teknologi
+    - Mendaftarkan diri di platform teknologi pendukung: Classroom, Github, Hackerrank, Codewars, Codesignal
+    - Memberikan pondasi pengetahuan terkait teknologi: Cara komputer dan internet bekerja
 * Pre-Reading:
 * Presentasi:
 * Hands-on:
